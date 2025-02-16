@@ -18,16 +18,21 @@ First Repository
 *Hello World Sample*
 
 ## Description
-**add stuff here!**
+**This is my hello world sample and also my first repository!**
 
 ## How to run program
-*add*
+1. Running the program is simple
+2. It is **just** Hello world!
 
 ## files used
-**same as AD**
+**No extra information**
+
+
+---
+
 
 ## Additional Documentation
 **add additional documents, if any, here!**
 
 ## Versioning
-*version stuff*
+> No extra information for this either! 
